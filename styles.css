@@ -9,7 +9,7 @@ body, html{
 }
 
 .image1 {
-    background-image: url(./images/porschelogo.jpg);
+    background-image: url(porschelogo.jpg);
     min-height: 100%;
     position: relative;
 opacity: 0.70;
@@ -20,7 +20,7 @@ background-attachment: fixed;
 }
 
 .image2 {
-    background-image: url(./images/rain.jpg);
+    background-image: url(.rain.jpg);
     min-height: 400px;
     position: relative;
 opacity: 0.70;
@@ -31,7 +31,7 @@ background-attachment: fixed;
 }
 
 .image3 {
-background-image: url(./images/driving.jpg);
+background-image: url(driving.jpg);
 min-height: 400px;
 position: relative;
 opacity: 0.70;
