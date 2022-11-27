@@ -20,7 +20,7 @@ background-attachment: fixed;
 }
 
 .image2 {
-    background-image: url(.rain.jpg);
+    background-image: url(rain.jpg);
     min-height: 400px;
     position: relative;
 opacity: 0.70;
